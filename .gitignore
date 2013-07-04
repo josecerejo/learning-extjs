@@ -1,0 +1,71 @@
+composer.lock
+vendor/
+
+public/script/dist/
+
+### Node ###
+node_modules/
+
+### OS X ###
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+.Spotlight-V100
+.Trashes
+
+### WINDOWS ###
+Thumbs.db
+enthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+### NETBEANS ###
+nbproject/private/
+nbbuild/
+nbdist/
+nbactions.xml
+nb-configuration.xml
+
+### LINUX ###
+.*
+!.gitignore
+!.bowerrc
+!.jshintrc
+*~
+
+### SUBLIME TEXT ###
+*.sublime-workspace
+
+### ECLIPSE ###
+*.pydevproject
+.project
+.metadata
+tmp/**
+tmp/**/*
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.classpath
+.settings/
+.loadpath
+.externalToolBuilders/
+*.launch
+.cproject
+.buildpath
+
+### VIM ###
+.*.sw[a-z]
+*.un~
+Session.vim
+.netrwhist
+
+### ZEND ###
+INSTALL.txt
+LICENSE.txt
+README.txt
+demos/
+extras/documentation
