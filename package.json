@@ -1,7 +1,7 @@
 {
-  "name": "symphony-dms",
+  "name": "extjs example",
   "version": "0.0.0",
-  "description": "symphony document management system",
+  "description": "",
   "main": "config.js",
   "dependencies": {
   },
@@ -9,9 +9,7 @@
     "grunt": "~0.4.1",
     "grunt-contrib-connect": "~0.3.0"
   },
-  "scripts": {
-    "install": "node_modules/bower/bin/bower install"
-  },
+  "scripts": {},
   "author": "Symphony Development Team",
   "license": "BSD",
   "readmeFilename": "README.md",
